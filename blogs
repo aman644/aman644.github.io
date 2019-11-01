@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Projects</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Projects</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">Projects</a></li>
+							
+						</ul>
+						<ul class="icons">
+							
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<h3 align='centre' id="proj"><b>Machine Learning Projects</b></h3>
+							<section class="posts">
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/aman644/datascience/blob/master/ML%20first.ipynb">Predicting Housing Prices</a></h2>
+									</header>
+									<a href="https://github.com/aman644/datascience/blob/master/ML%20first.ipynb" class="image fit"><img src="images/house.jpg" alt="" /></a>
+									<p>
+                                        In this project we predict Houseing prices for the city of Ames, Iowa, United States from 2006 to 2010.Initially we fit a Linear regression model with all the features in hand and as we move head in the project we perform feature engineering and eliminate redundant features.Our comparision matrix in this project is Root Mean Square Error, we rely upon it to get a idea about how well our model is performing.
+                                            </p>
+									
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/aman644/datascience/blob/master/Bike%20rental.ipynb">Predicting Bikes Rented Per Hour
+										</a></h2>
+									</header>
+									<a href="https://github.com/aman644/datascience/blob/master/Bike%20rental.ipynb" class="image fit"><img src="images/bike.jpg" alt="" /></a>
+									<p>Many American cities have communal bike sharing stations where you can rent bicycles by the hour or day. Washington, D.C. is one of these cities. The District collects detailed data on the number of bicycles people rent by the hour and day.In this project we fit our data in 3 different models and make predictions and find out which model suits best for our data. </p>
+									
+								</article>
+                                
+                                <article>
+									<header>
+										
+										<h2><a href="https://github.com/aman644/datascience/blob/master/titanic.ipynb">Predicting the Number of Pople survived in Titanic
+										</a></h2>
+									</header>
+									<a href="https://github.com/aman644/datascience/blob/master/titanic.ipynb" class="image fit"><img src="images/titanic.jpg" alt="" /></a>
+									<p>The dataset we are working with in this project is from a Machine Learning competition on kaggle.com. Our objective in this competition is to predict the number of people who survived the Titanic Ship sink accident.We design some new features from the existing features, cross validate our data and finally fit our data in Logistic regression model to predict the survival rate of that accident.</p>
+									
+								</article>
+                                
+                                 <article>
+									<header>
+										
+										<h2><a href="https://github.com/aman644/datascience/blob/master/jeopardy.ipynb">Finding Pattern in Jeopardy Questions
+										</a></h2>
+									</header>
+									<a href="https://github.com/aman644/datascience/blob/master/jeopardy.ipynb" class="image fit"><img src="images/bank.jpg" alt="" /></a>
+									<p>Jeopardy is a famous American T.V show in which right answers to the questions posed is awarded with money.Here we work with jeopardy dataset and try to surface out some pattern in the questions asked so that one can prepare accordingly and can win more money on the game show.</p>
+									
+								</article>
+                                    
+                                    
+								</header>
+                        </section>
+
+								<!-- Text stuff -->
+									
+									
+									
+
+									
+
+								<!--button-->
+                <footer>
+                <div class="pagination">
+									<!--<a href="#" class="previous">Prev</a>-->
+									<a href="index.html" class="page ">1</a>
+									<a href="elements.html" class="page active">2</a>
+									
+								</div>
+									
+                </footer>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
